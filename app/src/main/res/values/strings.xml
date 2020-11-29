@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LukaChupi</string>
+    <string name="welcome_to_lukachupi">Welcome To LukaChupi</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="username">username</string>
+    <string name="your_display_name">Your Display Name</string>
+    <string name="set_name">Set Name</string>
+    <string name="your_link">Your Link is Available :</string>
+    <string name="copy">Copy</string>
+    <string name="share">Share</string>
+    <string name="default_text">Default Text</string>
+    <string name="signout">SignOut</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="your_link_name">Your Link</string>
+    <string name="bannerAdId">ca-app-pub-4015094250941089/3316670194</string>
+</resources>
