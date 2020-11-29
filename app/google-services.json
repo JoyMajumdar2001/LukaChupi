@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "940005080054",
+    "firebase_url": "https://lukachupi-messenger.firebaseio.com",
+    "project_id": "lukachupi-messenger",
+    "storage_bucket": "lukachupi-messenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940005080054:android:96fd6f18201e6509b825d7",
+        "android_client_info": {
+          "package_name": "com.joy.lukachupi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940005080054-3p9crt0eirm63bnv5d9agc3dk6dkgtc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYw-m-cxrxaA9xYSY5KquOrgAPgBwNtBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940005080054-3p9crt0eirm63bnv5d9agc3dk6dkgtc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
